@@ -1,0 +1,47 @@
+header.main-header {
+  padding: 20px;
+  color: #FFFFFF;
+  background: #1ABC9C;
+  margin-bottom: 20px;
+
+  h1 {
+    font-weight: bold;
+    a {
+      color: #FFFFFF;
+      text-decoration: none;
+      &:hover {
+        color: darken(#FFFFFF, 5%);
+      }
+    }
+  }
+
+  a.button {
+    color: #FFFFFF;
+    &:focus {
+      color: inherit;
+    }
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  a.add-job {
+    background: #E74C3C;
+    border: darken(#E74C3C, 20%);
+    margin-right: 10px;
+    &:hover {
+      background: darken(#E74C3C, 10%);
+      color: inherit;
+    }
+  }
+
+  a.browse-jobs {
+    background: #3498DB;
+    border: darken(#3498DB, 20%);
+    margin-left: 10px;
+    &:hover {
+      background: darken(#3498DB, 10%);
+      color: inherit;
+    }
+  }
+}

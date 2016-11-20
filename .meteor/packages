@@ -1,0 +1,39 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+less@2.7.8
+check
+audit-argument-checks@1.0.7
+skeleton:skeleton
+kadira:flow-router
+kadira:react-layout
+react
+juliancwirko:s-alert
+juliancwirko:s-alert-scale
+matb33:collection-hooks
+random
+momentjs:moment
+email@1.1.18
+fortawesome:fontawesome
+okgrow:analytics
+spiderable@1.0.14-release-testing.0
+ongoworks:speakingurl
+settinghead:auto-nprogress
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+ejson
+spacebars
+standard-minifier-css
+standard-minifier-js
+shell-server
+goltfisch:hotjar

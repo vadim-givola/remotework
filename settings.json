@@ -1,0 +1,13 @@
+{
+  "public": {
+    /*"analyticsSettings": {
+      "Google Analytics": {
+        "trackingId": "UA-XXXXXXXX-XX"
+      }
+    },*/
+    "hotjar": {
+      "hjid": "341045",
+      "hjsv": "5"
+    }
+  }
+}
